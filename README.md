@@ -68,8 +68,8 @@ I structure this project into short steps of duration two weeks
 
 ### Deliverables
 
-1.  Efficient Sparse matrix Sparse matrix multiplication
-2.    OpenCL implementaition in the end, therfore a more generic solution to the problem for many kinds of hardware.
+1.  
+2.   
 
 ### Why Julia
 I picked this project, because the project has a huge learning curve, and one which I can possibly use  in my thesis work. I’ve been following Jiaho Chen, who first pointed out the problem in ideas list. Since he seems to have a handle on issues, I would be interested in working along with him. 
